@@ -1,0 +1,12 @@
+streamlit>=1.40
+datasets>=3.0
+pandas>=2.0
+numpy>=1.26
+sentence-transformers>=3.0
+torch>=2.2
+google-genai>=1.0
+huggingface-hub>=0.27
+python-dotenv>=1.0
+nltk>=3.9
+rouge-score>=0.1.2
+bert-score>=0.3.13
